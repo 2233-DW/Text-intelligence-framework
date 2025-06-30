@@ -1,0 +1,12 @@
+库名称	                  版本要求
+pandas	                  >=1.2.0
+numpy	                  >=1.19.0
+jieba	                          >=0.42.1
+sklearn	                  >=1.0.2
+matplotlib/seaborn	  >=3.5.0
+plotly	                          >=5.10.0
+wordcloud	                  >=1.8.1
+os	                          内置
+watchdog	                  >=2.1.9
+fitz	                          >= 0.18.0
+re	                          内置

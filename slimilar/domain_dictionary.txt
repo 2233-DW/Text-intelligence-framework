@@ -1,0 +1,9 @@
+# configs/domain_dictionary.txt
+行业术语1
+行业术语2
+...
+
+# 运营场景示例
+用户增长
+转化漏斗
+KOL投放
